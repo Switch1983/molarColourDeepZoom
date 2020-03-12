@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<Metadata version="1">
+  <AspectRatio>2</AspectRatio>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_180.png</FileName>
+    <x>0</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>1</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_090.png</FileName>
+    <x>0.749999999999999</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>2</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_120.png</FileName>
+    <x>0.833333333333333</x>
+    <y>0</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>3</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_150.png</FileName>
+    <x>0.916666666666667</x>
+    <y>0</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>4</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_180.png</FileName>
+    <x>0</x>
+    <y>0</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>5</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_210.png</FileName>
+    <x>0.0833333333333293</x>
+    <y>0</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>6</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_240.png</FileName>
+    <x>0.166666666666667</x>
+    <y>0</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>7</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_270.png</FileName>
+    <x>0.249999999999999</x>
+    <y>0</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>8</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_300.png</FileName>
+    <x>0.333333333333332</x>
+    <y>0</y>
+    <Width>0.0833333333333327</Width>
+    <Height>0.166666666666665</Height>
+    <ZOrder>9</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_330.png</FileName>
+    <x>0.416666666666665</x>
+    <y>0</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>10</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_000.png</FileName>
+    <x>0.499999999999999</x>
+    <y>0</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>11</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_030.png</FileName>
+    <x>0.583333333333332</x>
+    <y>0</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>12</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_060.png</FileName>
+    <x>0.666666666666666</x>
+    <y>0</y>
+    <Width>0.0833333333333327</Width>
+    <Height>0.166666666666665</Height>
+    <ZOrder>13</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n60_090.png</FileName>
+    <x>0.749999999999999</x>
+    <y>0</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>14</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_210.png</FileName>
+    <x>0.0833333333333293</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>15</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_240.png</FileName>
+    <x>0.166666666666667</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>16</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_270.png</FileName>
+    <x>0.249999999999999</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>17</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_300.png</FileName>
+    <x>0.333333333333332</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333327</Width>
+    <Height>0.166666666666665</Height>
+    <ZOrder>18</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_330.png</FileName>
+    <x>0.416666666666665</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>19</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_000.png</FileName>
+    <x>0.499999999999999</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>20</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_030.png</FileName>
+    <x>0.583333333333332</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>21</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_060.png</FileName>
+    <x>0.666666666666666</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>22</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_120.png</FileName>
+    <x>0.833333333333333</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333327</Width>
+    <Height>0.166666666666665</Height>
+    <ZOrder>23</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n30_150.png</FileName>
+    <x>0.916666666666667</x>
+    <y>0.166666666666667</y>
+    <Width>0.0833333333333327</Width>
+    <Height>0.166666666666665</Height>
+    <ZOrder>24</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_180.png</FileName>
+    <x>0</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>25</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_210.png</FileName>
+    <x>0.0833333333333293</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>26</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_240.png</FileName>
+    <x>0.166666666666667</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>27</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_270.png</FileName>
+    <x>0.249999999999999</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>28</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_300.png</FileName>
+    <x>0.333333333333332</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>29</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_330.png</FileName>
+    <x>0.416666666666665</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>30</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_150.png</FileName>
+    <x>0.916666666666667</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>31</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_330.png</FileName>
+    <x>0.416666666666665</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>32</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_000.png</FileName>
+    <x>0.499999999999999</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>33</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_030.png</FileName>
+    <x>0.583333333333332</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>34</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_060.png</FileName>
+    <x>0.666666666666667</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333327</Width>
+    <Height>0.166666666666665</Height>
+    <ZOrder>35</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_090.png</FileName>
+    <x>0.749999999999999</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>36</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_120.png</FileName>
+    <x>0.833333333333333</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>37</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n00_150.png</FileName>
+    <x>0.916666666666667</x>
+    <y>0.333333333333334</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>38</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_180.png</FileName>
+    <x>0</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>39</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_210.png</FileName>
+    <x>0.0833333333333293</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>40</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_240.png</FileName>
+    <x>0.166666666666667</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>41</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_270.png</FileName>
+    <x>0.249999999999999</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>42</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_300.png</FileName>
+    <x>0.333333333333332</x>
+    <y>0.5</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>43</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_000.png</FileName>
+    <x>0.499999999999999</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>44</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_030.png</FileName>
+    <x>0.583333333333332</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>45</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_060.png</FileName>
+    <x>0.666666666666666</x>
+    <y>0.5</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>46</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_090.png</FileName>
+    <x>0.749999999999999</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>47</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-30_120.png</FileName>
+    <x>0.833333333333333</x>
+    <y>0.5</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>48</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_180.png</FileName>
+    <x>0</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>49</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_210.png</FileName>
+    <x>0.0833333333333293</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>50</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_240.png</FileName>
+    <x>0.166666666666667</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>51</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_270.png</FileName>
+    <x>0.249999999999999</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>52</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_300.png</FileName>
+    <x>0.333333333333332</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>53</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_330.png</FileName>
+    <x>0.416666666666665</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333331</Width>
+    <Height>0.166666666666666</Height>
+    <ZOrder>54</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_000.png</FileName>
+    <x>0.499999999999999</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>55</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_030.png</FileName>
+    <x>0.583333333333332</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>56</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_060.png</FileName>
+    <x>0.666666666666666</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>57</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_090.png</FileName>
+    <x>0.749999999999999</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>58</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_120.png</FileName>
+    <x>0.833333333333333</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>59</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-60_150.png</FileName>
+    <x>0.916666666666667</x>
+    <y>0.666666666666667</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>60</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_000.png</FileName>
+    <x>0.499999999999999</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>61</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_180.png</FileName>
+    <x>0</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>62</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_210.png</FileName>
+    <x>0.0833333333333335</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>63</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_240.png</FileName>
+    <x>0.166666666666667</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>64</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_270.png</FileName>
+    <x>0.249999999999999</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>65</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_300.png</FileName>
+    <x>0.333333333333332</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>66</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_330.png</FileName>
+    <x>0.416666666666665</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>67</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_030.png</FileName>
+    <x>0.583333333333332</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>68</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_060.png</FileName>
+    <x>0.666666666666666</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>69</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_090.png</FileName>
+    <x>0.749999999999999</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>70</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_120.png</FileName>
+    <x>0.833333333333333</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>71</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\MolarColour\Source Images\mola_color_n-90_150.png</FileName>
+    <x>0.916666666666667</x>
+    <y>0.833333333333333</y>
+    <Width>0.0833333333333335</Width>
+    <Height>0.166666666666667</Height>
+    <ZOrder>72</ZOrder>
+    <Tag />
+  </Image>
+</Metadata>

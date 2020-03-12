@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection MaxLevel="8" TileSize="256" Format="jpg" NextItemId="72" ServerFormat="Default" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+  <Items>
+    <I Id="0" N="0" Source="dzc_output_images/mola_color_n30_180.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0" Y="-1" />
+    </I>
+    <I Id="1" N="1" Source="dzc_output_images/mola_color_n30_090.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-8.9999999999999751" Y="-1" />
+    </I>
+    <I Id="2" N="2" Source="dzc_output_images/mola_color_n60_120.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-9.9999999999999751" Y="-0" />
+    </I>
+    <I Id="3" N="3" Source="dzc_output_images/mola_color_n60_150.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-11.00000000000003" Y="-0" />
+    </I>
+    <I Id="4" N="4" Source="dzc_output_images/mola_color_n60_180.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0" Y="-0" />
+    </I>
+    <I Id="5" N="5" Source="dzc_output_images/mola_color_n60_210.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0.99999999999994993" Y="-0" />
+    </I>
+    <I Id="6" N="6" Source="dzc_output_images/mola_color_n60_240.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2" Y="-0" />
+    </I>
+    <I Id="7" N="7" Source="dzc_output_images/mola_color_n60_270.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-2.9999999999999956" Y="-0" />
+    </I>
+    <I Id="8" N="8" Source="dzc_output_images/mola_color_n60_300.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000094" X="-4.00000000000002" Y="-0" />
+    </I>
+    <I Id="9" N="9" Source="dzc_output_images/mola_color_n60_330.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-4.9999999999999707" Y="-0" />
+    </I>
+    <I Id="10" N="10" Source="dzc_output_images/mola_color_n60_000.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-6" Y="-0" />
+    </I>
+    <I Id="11" N="11" Source="dzc_output_images/mola_color_n60_030.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-6.9999999999999654" Y="-0" />
+    </I>
+    <I Id="12" N="12" Source="dzc_output_images/mola_color_n60_060.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000094" X="-8.0000000000000551" Y="-0" />
+    </I>
+    <I Id="13" N="13" Source="dzc_output_images/mola_color_n60_090.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-8.9999999999999645" Y="-0" />
+    </I>
+    <I Id="14" N="14" Source="dzc_output_images/mola_color_n30_210.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999973" X="-0.99999999999994971" Y="-0.99999999999999978" />
+    </I>
+    <I Id="15" N="15" Source="dzc_output_images/mola_color_n30_240.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999973" X="-1.9999999999999998" Y="-0.99999999999999978" />
+    </I>
+    <I Id="16" N="16" Source="dzc_output_images/mola_color_n30_270.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2.9999999999999809" Y="-1" />
+    </I>
+    <I Id="17" N="17" Source="dzc_output_images/mola_color_n30_300.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000094" X="-4.00000000000002" Y="-1.00000000000001" />
+    </I>
+    <I Id="18" N="18" Source="dzc_output_images/mola_color_n30_330.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-4.9999999999999707" Y="-1" />
+    </I>
+    <I Id="19" N="19" Source="dzc_output_images/mola_color_n30_000.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-6" Y="-1.0000000000000049" />
+    </I>
+    <I Id="20" N="20" Source="dzc_output_images/mola_color_n30_030.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999973" X="-6.9999999999999645" Y="-0.99999999999999978" />
+    </I>
+    <I Id="21" N="21" Source="dzc_output_images/mola_color_n30_060.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-8.0000000000000142" Y="-1.0000000000000049" />
+    </I>
+    <I Id="22" N="22" Source="dzc_output_images/mola_color_n30_120.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000094" X="-10.000000000000075" Y="-1.00000000000001" />
+    </I>
+    <I Id="23" N="23" Source="dzc_output_images/mola_color_n30_150.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000094" X="-11.000000000000085" Y="-1.00000000000001" />
+    </I>
+    <I Id="24" N="24" Source="dzc_output_images/mola_color_n00_180.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0" Y="-2" />
+    </I>
+    <I Id="25" N="25" Source="dzc_output_images/mola_color_n00_210.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999973" X="-0.99999999999994971" Y="-1.9999999999999996" />
+    </I>
+    <I Id="26" N="26" Source="dzc_output_images/mola_color_n00_240.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999973" X="-1.9999999999999998" Y="-1.9999999999999996" />
+    </I>
+    <I Id="27" N="27" Source="dzc_output_images/mola_color_n00_270.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2.9999999999999809" Y="-2" />
+    </I>
+    <I Id="28" N="28" Source="dzc_output_images/mola_color_n00_300.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-4.0000000000000009" Y="-2.0000000000000098" />
+    </I>
+    <I Id="29" N="29" Source="dzc_output_images/mola_color_n00_330.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-4.9999999999999707" Y="-2" />
+    </I>
+    <I Id="30" N="30" Source="dzc_output_images/mola_color_n-30_150.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-10.999999999999975" Y="-2.9999999999999996" />
+    </I>
+    <I Id="31" N="31" Source="dzc_output_images/mola_color_n-30_330.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-4.9999999999999707" Y="-2.9999999999999996" />
+    </I>
+    <I Id="32" N="32" Source="dzc_output_images/mola_color_n00_000.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-6" Y="-2.0000000000000098" />
+    </I>
+    <I Id="33" N="33" Source="dzc_output_images/mola_color_n00_030.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999973" X="-6.9999999999999645" Y="-1.9999999999999996" />
+    </I>
+    <I Id="34" N="34" Source="dzc_output_images/mola_color_n00_060.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000094" X="-8.0000000000000639" Y="-2.00000000000002" />
+    </I>
+    <I Id="35" N="35" Source="dzc_output_images/mola_color_n00_090.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-8.9999999999999751" Y="-2" />
+    </I>
+    <I Id="36" N="36" Source="dzc_output_images/mola_color_n00_120.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-10.000000000000025" Y="-2.0000000000000098" />
+    </I>
+    <I Id="37" N="37" Source="dzc_output_images/mola_color_n00_150.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-11.00000000000003" Y="-2.0000000000000098" />
+    </I>
+    <I Id="38" N="38" Source="dzc_output_images/mola_color_n-30_180.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0" Y="-2.9999999999999996" />
+    </I>
+    <I Id="39" N="39" Source="dzc_output_images/mola_color_n-30_210.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0.99999999999994993" Y="-2.9999999999999996" />
+    </I>
+    <I Id="40" N="40" Source="dzc_output_images/mola_color_n-30_240.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2" Y="-2.9999999999999996" />
+    </I>
+    <I Id="41" N="41" Source="dzc_output_images/mola_color_n-30_270.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2.9999999999999849" Y="-2.9999999999999996" />
+    </I>
+    <I Id="42" N="42" Source="dzc_output_images/mola_color_n-30_300.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-4.0000000000000009" Y="-3.0000000000000142" />
+    </I>
+    <I Id="43" N="43" Source="dzc_output_images/mola_color_n-30_000.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-5.99999999999997" Y="-2.9999999999999996" />
+    </I>
+    <I Id="44" N="44" Source="dzc_output_images/mola_color_n-30_030.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999973" X="-6.9999999999999645" Y="-2.9999999999999991" />
+    </I>
+    <I Id="45" N="45" Source="dzc_output_images/mola_color_n-30_060.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-8.00000000000002" Y="-3.0000000000000142" />
+    </I>
+    <I Id="46" N="46" Source="dzc_output_images/mola_color_n-30_090.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-8.9999999999999751" Y="-2.9999999999999996" />
+    </I>
+    <I Id="47" N="47" Source="dzc_output_images/mola_color_n-30_120.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-9.9999999999999751" Y="-2.9999999999999996" />
+    </I>
+    <I Id="48" N="48" Source="dzc_output_images/mola_color_n-60_180.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0" Y="-4" />
+    </I>
+    <I Id="49" N="49" Source="dzc_output_images/mola_color_n-60_210.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0.99999999999994993" Y="-4" />
+    </I>
+    <I Id="50" N="50" Source="dzc_output_images/mola_color_n-60_240.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2" Y="-4" />
+    </I>
+    <I Id="51" N="51" Source="dzc_output_images/mola_color_n-60_270.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2.9999999999999849" Y="-4" />
+    </I>
+    <I Id="52" N="52" Source="dzc_output_images/mola_color_n-60_300.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-4.0000000000000009" Y="-4.0000000000000195" />
+    </I>
+    <I Id="53" N="53" Source="dzc_output_images/mola_color_n-60_330.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="12.000000000000036" X="-4.9999999999999956" Y="-4.0000000000000195" />
+    </I>
+    <I Id="54" N="54" Source="dzc_output_images/mola_color_n-60_000.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-5.99999999999997" Y="-4" />
+    </I>
+    <I Id="55" N="55" Source="dzc_output_images/mola_color_n-60_030.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-6.9999999999999654" Y="-4" />
+    </I>
+    <I Id="56" N="56" Source="dzc_output_images/mola_color_n-60_060.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-7.9999999999999751" Y="-4" />
+    </I>
+    <I Id="57" N="57" Source="dzc_output_images/mola_color_n-60_090.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-8.9999999999999751" Y="-4" />
+    </I>
+    <I Id="58" N="58" Source="dzc_output_images/mola_color_n-60_120.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-9.9999999999999751" Y="-4" />
+    </I>
+    <I Id="59" N="59" Source="dzc_output_images/mola_color_n-60_150.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999973" X="-10.999999999999973" Y="-3.9999999999999991" />
+    </I>
+    <I Id="60" N="60" Source="dzc_output_images/mola_color_n-90_000.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-5.99999999999997" Y="-4.9999999999999947" />
+    </I>
+    <I Id="61" N="61" Source="dzc_output_images/mola_color_n-90_180.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-0" Y="-4.9999999999999947" />
+    </I>
+    <I Id="62" N="62" Source="dzc_output_images/mola_color_n-90_210.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-1" Y="-4.9999999999999947" />
+    </I>
+    <I Id="63" N="63" Source="dzc_output_images/mola_color_n-90_240.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2" Y="-4.9999999999999947" />
+    </I>
+    <I Id="64" N="64" Source="dzc_output_images/mola_color_n-90_270.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-2.9999999999999849" Y="-4.9999999999999947" />
+    </I>
+    <I Id="65" N="65" Source="dzc_output_images/mola_color_n-90_300.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-3.9999999999999809" Y="-4.9999999999999947" />
+    </I>
+    <I Id="66" N="66" Source="dzc_output_images/mola_color_n-90_330.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-4.9999999999999707" Y="-4.9999999999999947" />
+    </I>
+    <I Id="67" N="67" Source="dzc_output_images/mola_color_n-90_030.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-6.9999999999999654" Y="-4.9999999999999947" />
+    </I>
+    <I Id="68" N="68" Source="dzc_output_images/mola_color_n-90_060.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-7.9999999999999734" Y="-4.9999999999999947" />
+    </I>
+    <I Id="69" N="69" Source="dzc_output_images/mola_color_n-90_090.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-8.9999999999999751" Y="-4.9999999999999947" />
+    </I>
+    <I Id="70" N="70" Source="dzc_output_images/mola_color_n-90_120.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-9.9999999999999751" Y="-4.9999999999999947" />
+    </I>
+    <I Id="71" N="71" Source="dzc_output_images/mola_color_n-90_150.xml">
+      <Size Width="7680" Height="7680" />
+      <Viewport Width="11.999999999999975" X="-10.999999999999975" Y="-4.9999999999999947" />
+    </I>
+  </Items>
+</Collection>
